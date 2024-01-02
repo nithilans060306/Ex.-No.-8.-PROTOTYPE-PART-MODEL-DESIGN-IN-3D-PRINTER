@@ -46,9 +46,18 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2023-11-29 094338](https://github.com/nithilans060306/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147473026/107a3aa2-363a-47b6-b6f0-5a68207809de)
 
+![Screenshot 2023-11-29 094437](https://github.com/nithilans060306/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147473026/1cb4ca24-ed87-4885-9dd5-c43eceedd19e)
+
+![Screenshot 2023-11-29 094616](https://github.com/nithilans060306/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147473026/e0b1e289-3cf6-478d-a0cb-3a1da513e3fb)
+
+![Screenshot 2023-11-29 094641](https://github.com/nithilans060306/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147473026/33d0b5bd-e5b3-4a48-a2c9-e7437025105a)
+
+![Screenshot 2023-11-29 094811](https://github.com/nithilans060306/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147473026/5b1cb454-c140-41e3-83b8-eb5e9b989c15)
 ### Name:
+Nithilan S
 ### Register Number:
-
+23013463
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
